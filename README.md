@@ -2,6 +2,7 @@
   <img 
     alt="Game Journal logo"
     src="logo.png"
+    width="360px"
   />
 </div>
 
